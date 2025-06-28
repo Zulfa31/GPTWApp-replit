@@ -1,0 +1,7 @@
+{
+  "openai_api_key": "SK-ISI-DULU",
+  "whatsapp_bot_number": "08xxxxxxxx",
+  "admin_number": "08xxxxxxxx",
+  "bot_name": "RitzBot",
+  "default_prompt": "Kamu adalah asisten ramah dari toko perawatan bibir. Jawab pertanyaan pelanggan dengan sopan dan informatif."
+}
